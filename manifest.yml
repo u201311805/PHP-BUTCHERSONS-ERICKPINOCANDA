@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PHP-BUTCHERSONS-ERICKPINOCANDA
+  host: PHP-BUTCHERSONS-ERICKPINOCANDA
+  disk_quota: 1024M
